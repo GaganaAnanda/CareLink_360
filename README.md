@@ -6,6 +6,7 @@ CareLink 360 is a multi-enterprise healthcare ecosystem integrating hospitals, i
 
 **👥 Collaborators (Group 15)
 **
+
 Gagana Ananda
 
 Syed Hameed Uddin
@@ -18,6 +19,7 @@ Mallesh Mallikarjunaiah
 
 **📌 Project Overview
 **
+
 CareLink 360 addresses communication gaps across hospitals, insurance agencies, government units, and NGOs by creating a centralized platform for managing patient requests, insurance verifications, lab workflows, donations, and financial assistance.
 
 The system follows a structured hierarchy:
@@ -26,6 +28,7 @@ This design enables smooth inter-enterprise communication and coordinated workfl
 
 **🧩 Key Features
 **
+
 Multi-enterprise ecosystem supporting Hospital, Insurance, NGO, Government modules
 
 Role-specific dashboards (Doctor, Lab Assistant, Patient, Insurance Agent, Accountant, NGO Coordinator, etc.)
@@ -40,6 +43,7 @@ UML diagrams, class models, and complete architecture documentation
 
 **📁 Repository Structure
 **
+
 /Business – Core logic, models, roles, and workflow classes
 
 /userinterface – Java Swing UI panels for all roles
@@ -52,6 +56,7 @@ UML diagrams, class models, and complete architecture documentation
 
 **🔧 Development Workflow
 **
+
 Each member works on an individual branch
 
 Changes are merged into main through pull requests
@@ -70,4 +75,5 @@ Week 4: Testing, fixes, final packaging
 
 **📄 License
 **
+
 Academic project submitted for Application Engineering and Development (AED) at Northeastern University.
