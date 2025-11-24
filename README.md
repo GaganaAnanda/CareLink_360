@@ -4,7 +4,8 @@ CareLink 360 – Application Engineering and Development (AED) Final Project
 
 CareLink 360 is a multi-enterprise healthcare ecosystem integrating hospitals, insurance companies, NGOs, donation units, and government organizations under a unified workflow. The system uses a modular architecture with Java Swing for UI, DB4O for persistence, and a role-based workflow powered by WorkQueues.
 
-👥 Collaborators (Group 15)
+**👥 Collaborators (Group 15)
+**
 
 Gagana Ananda
 
@@ -16,7 +17,8 @@ Mallesh Mallikarjunaiah
 
 
 
-📌 Project Overview
+**📌 Project Overview
+**
 
 CareLink 360 addresses communication gaps across hospitals, insurance agencies, government units, and NGOs by creating a centralized platform for managing patient requests, insurance verifications, lab workflows, donations, and financial assistance.
 
@@ -24,7 +26,8 @@ The system follows a structured hierarchy:
 EcoSystem → Networks → Enterprises → Organizations → Roles → WorkQueues
 This design enables smooth inter-enterprise communication and coordinated workflow management.
 
-🧩 Key Features
+**🧩 Key Features
+**
 
 Multi-enterprise ecosystem supporting Hospital, Insurance, NGO, Government modules
 
@@ -38,7 +41,8 @@ Swing UI panels connected to modular Business Layer classes
 
 UML diagrams, class models, and complete architecture documentation
 
-📁 Repository Structure
+**📁 Repository Structure
+**
 
 /Business – Core logic, models, roles, and workflow classes
 
@@ -50,7 +54,8 @@ UML diagrams, class models, and complete architecture documentation
 
 /assets – Proposal, milestone updates, presentations
 
-🔧 Development Workflow
+**🔧 Development Workflow
+**
 
 Each member works on an individual branch
 
@@ -68,6 +73,7 @@ Week 3: UI development & workflow integration
 
 Week 4: Testing, fixes, final packaging
 
-📄 License
+**📄 License
+**
 
 Academic project submitted for Application Engineering and Development (AED) at Northeastern University.
