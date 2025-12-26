@@ -1,20 +1,8 @@
-# Group_15_Final_Project_CareLink_360
+CareLink_360
 
-CareLink 360 – Application Engineering and Development (AED) Final Project
+CareLink 360 – Application Engineering and Development (AED) 
 
 CareLink 360 is a multi-enterprise healthcare ecosystem integrating hospitals, insurance companies, NGOs, donation units, and government organizations under a unified workflow. The system uses a modular architecture with Java Swing for UI, DB4O for persistence, and a role-based workflow powered by WorkQueues.
-
-**👥 Collaborators (Group 15)
-**
-
-Gagana Ananda
-
-Syed Hameed Uddin
-
-Jayanth Muthaluri
-
-Mallesh Mallikarjunaiah
-
 
 
 **📌 Project Overview
